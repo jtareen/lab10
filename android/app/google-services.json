@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "129689713326",
+    "project_id": "madlab10socialmediaapp",
+    "storage_bucket": "madlab10socialmediaapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129689713326:android:3584808c0bab03fea64b3f",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANFOWUdzQAf1yLvLBsveEoa8flganqen0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129689713326:android:3816bd9dbd3e6f48a64b3f",
+        "android_client_info": {
+          "package_name": "com.example.social_media_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANFOWUdzQAf1yLvLBsveEoa8flganqen0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
